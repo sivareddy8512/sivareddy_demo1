@@ -1,0 +1,1000 @@
+   26  cd ..
+   27  rm -Rfr sainath-repo/
+   28  ls -l
+   29  ls
+   30  rm -Rfr git-repo
+   31  rm -Rfr siva-repo
+   32  rm -Rfr srinu
+   33  rajesh-repo
+   34  rm -Rfr rajesh-repo
+   35  ls
+   36  clear
+   37  ls
+   38  rm -Rfr siva-rep
+   39  clear
+   40  ls
+   41  cd siva
+   42  mkdir gitpractice
+   43  git clone https://github.com/siva0139/siva-repo.git
+   44  ls
+   45  cd gitpractice/
+   46  git clone https://github.com/siva0139/siva-repo.git
+   47  ls
+   48  cd siva-repo/
+   49  ls -alrt
+   50  clear
+   51  cd ..
+   52  ls
+   53  rm -rfR siva-repo/
+   54  cd gitpractice/
+   55  cd siva-repo/
+   56  git branch
+   57  git config --list
+   58  clear
+   59  git logog
+   60  git log
+   61  git config --global user.name "siva0139"
+   62  git config --global user.email "pvsiva2013@gmail.com"
+   63  git config --list
+   64  clear
+   65  touch test.txt
+   66  git -a commit -m "intial commit"
+   67  git commit -a -m "intial commit"
+   68  git branch
+   69  git log
+   70  git add test.txt
+   71  git commit -m "intial commit"
+   72  git branch
+   73  git log
+   74  clear
+   75  git log
+   76  git push origin master
+   77  git log
+   78  vi test.txt
+   79  git add test.txt
+   80  git commit -m "data inserted"
+   81  cat test.txt
+   82  clear
+   83  git ls-files
+   84  git push origin master
+   85  git pull origin master
+   86  cat test.txt
+   87  vi test.txt
+   88  git push origin master
+   89  git log
+   90  ls
+   91  logout
+   92  ls
+   93  cd mahigit
+   94  ls
+   95  pws
+   96  pwd
+   97  ls -a
+   98  cd .git
+   99  ls
+  100  vi config 
+  101  cd ..
+  102  ls
+  103  cd ..
+  104  ls
+  105  cd 9999/
+  106  ls
+  107  ls -a
+  108  cd ..
+  109  rm -rf 9999/
+  110  ls
+  111  mkdir babu
+  112  ls
+  113  cd babu
+  114  git init
+  115  ls-a
+  116  ls -a
+  117  cd .git/
+  118  ls
+  119  vi config 
+  120  cd ..
+  121  ls
+  122  git config --global user.name "babu"
+  123  git config --global user.email "babu@gmail.com"
+  124  git config --list
+  125  ls
+  126  ls-a
+  127  ls -a
+  128  cd .git
+  129  ls
+  130  vi config 
+  131  git clone https://github.com/mahikatkuri/9999.git
+  132  ls
+  133  rm -rf 9999/
+  134  ls
+  135  cd ..
+  136  git clone https://github.com/mahikatkuri/9999.git
+  137  ls
+  138  cd 9999/
+  139  ls
+  140  cd .git
+  141  ls -a
+  142  cd .git
+  143  vi config 
+  144  cd ..
+  145  ls
+  146  cat > 2.txt
+  147  cat 2.txt 
+  148  git add 2.txt 
+  149  git commit -m "added 2.txt"
+  150  git push
+  151  git pull origin master
+  152  ls
+  153  cat 2.txt 
+  154  git log 2.txt 
+  155  git status 2.txt
+  156  git status 
+  157  git log 
+  158  ls -a
+  159  cd .git
+  160  ls
+  161  vi config 
+  162  cd
+  163  ls
+  164  curl  https://github.com/mahikatkuri/mahi.git/info/refs
+  165   https://github.com/mahikatkuri/mahi.git/info/refs
+  166  curl https://github.com/mahikatkuri/mahi.git/info/refs
+  167  ls
+  168  cd mahigit
+  169  ls
+  170  cd
+  171  rm -rf mahigit/
+  172  mkdir mahigit
+  173  ls
+  174  cd mahigit/
+  175  it
+  176  cd mahigit
+  177  ls
+  178  ls -a
+  179  git init
+  180  ls-a
+  181  ls -a
+  182  ls
+  183  git config --global user.name "mahi"
+  184  git config --global user.email "mahi@gmail.com"
+  185  git config --list
+  186  git remote add origin https://github.com/mahikatkuri/mahi.git
+  187  touch 1.c
+  188  vi 1.c 
+  189  git add 1.c 
+  190  git commit -m "added filee"
+  191  git push
+  192  git push origin master
+  193  git branch
+  194  git branch MAHI
+  195  git branch
+  196  git checkout MAHI
+  197  git branch
+  198  ls
+  199  git push origin MAHI
+  200  git pull origin master
+  201  ls
+  202  display 08e06826-6c8a-4bce-a25d-f5fa25c1efa8.jpg 
+  203  imageMagick
+  204  rpm -qa imageMagick
+  205  ls
+  206  rm -rf 08e06826-6c8a-4bce-a25d-f5fa25c1efa8.jpg 
+  207  ls
+  208  git push
+  209  ls
+  210  git push
+  211  git push origin MAHI
+  212  git push origin master
+  213  ls 
+  214  git branch
+  215  git checkout master
+  216  ls
+  217  git push origin master
+  218  git checkout MAHI
+  219  LS
+  220  ls
+  221  vi 1.c 
+  222  git push origin MAHI
+  223  git add 1.c 
+  224  git commit -m "added few lines"
+  225  git push origin MAHI
+  226  cd 
+  227  ls
+  228  cd -a
+  229  ls -a
+  230  cd .ssh
+  231  ls
+  232  vi authorized_keys 
+  233  cat authorized_keys 
+  234  cat author
+  235  cat authorized_keys 
+  236  cd ..
+  237  cd .ssh
+  238  ls
+  239  rm -rf authorozed_keys 
+  240  ls
+  241  cat authorized_keys 
+  242  ls
+  243  pwd
+  244  ls
+  245  cd
+  246  ls
+  247  cd
+  248  ls
+  249  cd /
+  250  ls
+  251  ll
+  252  cd home
+  253  ls
+  254  cd palani/
+  255  ls
+  256  cd
+  257  ls
+  258  ssh root@192.168.218.130
+  259  logout
+  260  cd rajesh
+  261  ls
+  262  mkdir rajesh2
+  263  cd rajesh2
+  264  git init
+  265  ls-lart
+  266  ls
+  267  eexit
+  268  exit
+  269  clear
+  270  cd siva
+  271  cd gitpractice/
+  272  ls -lrt
+  273  cd siva-repo/
+  274  ls -lrt
+  275  cat test.txt
+  276  git status
+  277  git status -s
+  278  git add test.txt
+  279  git status -s
+  280  cat test.txt
+  281  git commit -m"added another line"
+  282  git push origin master
+  283  clear
+  284  git ls-files
+  285  git pull origin master
+  286  git ls-files
+  287  clear
+  288  git ls-files
+  289  vi colors
+  290  git commit -a -m "added white color"
+  291  git ls-files
+  292  cat colors
+  293  git push origin master
+  294  git log
+  295  git status -s
+  296  vi colors.java
+  297  vi colors
+  298  git status -s
+  299  git add colors.java
+  300  rm -rf colors
+  301  git ls-files
+  302  git commit -m "added white color"
+  303  clear
+  304  git log
+  305  clear
+  306  git push origin master
+  307  clear
+  308  git ls-files
+  309  cat colors.java
+  310  git pull  colors.java
+  311  git pull origin master
+  312  clear
+  313  git log
+  314  clear
+  315  cat colors
+  316  cat colors.java
+  317  clear
+  318  git pull origin master
+  319  git log
+  320  clear
+  321  cat>>colors
+  322  cat colors.java
+  323  cat>>colors.java
+  324  cat colors.java
+  325  git ls-files
+  326  git status -s
+  327  rm -rf colors
+  328  git ls-files
+  329  git add colors.java
+  330  git commit -m "added red color"
+  331  git log
+  332  git push origin master
+  333  clear
+  334  git log
+  335  clear
+  336  git branch
+  337  git checkout -b FB_R1.0
+  338  git branch
+  339  clear
+  340  git branch 
+  341  git push origin FB_R1.0
+  342  git log
+  343  clear
+  344  git log
+  345  clear
+  346  git ls-files
+  347  touch students.txt
+  348  git add .
+  349  git  commit -m "added students.txt file"
+  350  clear
+  351  git log
+  352  git config --list
+  353  clear
+  354  who
+  355  clear
+  356  git ls-files
+  357  git push origin FB_R1.0
+  358  clear
+  359  git pull origin FB_R1.0
+  360  clear
+  361  git ls-files
+  362  cat students.txt
+  363  clear
+  364  git log
+  365  clear
+  366  git checkout -b FB_R2.0
+  367  git branch
+  368  gti push origin FB_R2.0
+  369  git push origin FB_R2.0
+  370  ls
+  371  ssh root@192.168.218.130
+  372  ls
+  373  ll
+  374  ls
+  375  cd kat
+  376  ls
+  377  vi 1.txt 
+  378  cd
+  379  ls
+  380  find . -name .txt
+  381  find . -name ".txt"
+  382  find . -name ".txt" *
+  383  find . -name "*.txt" 
+  384  find . -name ".txt" 
+  385  find  -name ".txt" 
+  386  find  -name "*.txt" 
+  387  grep -R "mahender" *
+  388  grep -R "mahender" 
+  389  grep -R "mahender"*
+  390  find . -mmnin 1
+  391  find . -mmin 1
+  392  find . -mmin 10
+  393  find  -mmin 10
+  394  find  -amin 10
+  395  pwd
+  396  find  -amin 1
+  397  find /home -amin 1
+  398  find /home/ec2-user -amin 1
+  399  cd kat
+  400  ls
+  401  cd rajesh2
+  402  ls
+  403  cd rajesh
+  404  mkdir
+  405  mkdir rajeshrepo2
+  406  cd rajeshrepo2
+  407  ls -lrt
+  408  gitinit
+  409  git init
+  410  ls -lart
+  411  git config --global user.name"rajeshrepo2"
+  412  git config --global user.email"rajeshkongala
+  413  git config --global user.email"kongalarajesh@gmail.com"
+  414  touch rajeshh.text
+  415  ls-files
+  416  exit
+  417  cd rajeshrepo
+  418  ls
+  419  cd rajesh
+  420  ls-files
+  421  ls -lrt
+  422  cd..
+  423  pwd
+  424  cd..
+  425  cd ec2-user
+  426  exit
+  427  cd siva
+  428  cleart
+  429  clear
+  430  cd siva
+  431  cd gitpractice/
+  432  ls -lrt
+  433  rm -rfR siva-repo
+  434  ls -lrt
+  435  mkdir siva-repo
+  436  cd siva-repo
+  437  ls -alrt
+  438  git init
+  439  git config --global user.name "siva0139"
+  440  git config --global user.email "pvsiva2013@gmail.com"
+  441  ls -lart
+  442  cleAR
+  443  clear
+  444  touch test.txt
+  445  git add test.txt
+  446  git commit -m "intial commit"
+  447  ls -lrta
+  448  git push origin master
+  449  git remote
+  450  git config --list
+  451  clear
+  452  git remote add origin https://github.com/siva0139/siva-repo.git
+  453  git remote
+  454  git remote -v
+  455  git branch
+  456  git push origin master
+  457  clear
+  458  cat>test.txt
+  459  cat test.txt
+  460  git add test.txt
+  461  git commit -m "data inserted"
+  462  git status
+  463  git diff
+  464  git log
+  465  git push origin master
+  466  clear
+  467  git ls-files
+  468  cat test.txt
+  469  clear
+  470  git pull origin master
+  471  cat test.txt
+  472  git checkout -b FB_R1.0
+  473  git branch
+  474  touch colors.java
+  475  git ls-files
+  476  git add colors.java
+  477  git commit -m "colors .java file added "
+  478  git push origin FB_R1.0
+  479  clear
+  480  git pull origin FB_R1.0
+  481  clear
+  482  git ls-files
+  483  cat colors.java
+  484  clear
+  485  cl
+  486  clear
+  487  git log
+  488  clear
+  489  git log
+  490  vi colors.java
+  491  git status
+  492  git status -s
+  493  git add .
+  494  git status -s
+  495  clear
+  496  git commit -m "added red color"
+  497  clear
+  498  git push origin FB_R1.0
+  499  clear
+  500  git pull origin FB_R1.0
+  501  clear
+  502  git ls-files
+  503  cat colors.java
+  504  clea
+  505  clear
+  506  git log
+  507  clear
+  508  git branch
+  509  git checkout -b FB_R2.0
+  510  touch student.txt
+  511  git add student.txt
+  512  git commit -m "student file added"
+  513  clear
+  514  git log
+  515  clear
+  516  git push origin FB_R2.0
+  517  clear
+  518  git pull origin FB_R2.0
+  519  clear
+  520  git ls-files
+  521  cat student files
+  522  cat student.txt
+  523  clear
+  524  cd .git/config
+  525  cd .git
+  526  ls
+  527  ls-lrt
+  528  ls -lrt
+  529  vi config
+  530  clear
+  531  ls
+  532  sudo -i
+  533  rm -rf kat : mahigit : mahisvn/
+  534  ls
+  535  mkdir mahikat
+  536  ls
+  537  cd mahikat
+  538  mkdir git svn home
+  539  ls
+  540  cd home 
+  541  ls
+  542  mkdir mymusic mypics downloads textfiles offfic local remote
+  543  ls
+  544  mkdir katkuri
+  545  ls
+  546  pwd
+  547  cd ..
+  548  ls
+  549  cd git
+  550  ls
+  551  git init
+  552  ls -a
+  553  git config --global user.name "mahender"
+  554  git config --global user.email "mahender@gmail.com"
+  555  git config --list
+  556  ls
+  557  touch 1.txt
+  558  ls
+  559  vi 1.txt
+  560  cat 1.txt 
+  561  git checkout 1.txt 
+  562  git checkout 1.txt 
+  563  git checkout 
+  564  git checkout 1.txt 
+  565  cat 1.txt 
+  566  git HEAD checkout 1.txt 
+  567  git
+  568  ls
+  569  git branch
+  570  git add 1.txt 
+  571  git branch
+  572  git commit -m "added 1.txt"
+  573  git branch
+  574  git branch FB1
+  575  git branch
+  576  ls
+  577  git checkout FB1
+  578  ls
+  579  touch 1.fb
+  580  ls
+  581  vi 1.
+  582  vi 1.fb
+  583  cat 1.fb 
+  584  git checkout 1.fb
+  585  git remote add origin https://github.com/mahikatkuri/mahi.git
+  586  git push 
+  587  ls
+  588  rm -rf 1.
+  589  ls
+  590  git branch
+  591  git push origin FB!
+  592  git push origin FB1
+  593  git push
+  594  git branch -b FB2
+  595  git branch
+  596  git branch -b FB2
+  597  git checkout -b FB2
+  598  git branch
+  599  ls
+  600  touch 2.fb
+  601  git add 2.fb 
+  602  git commit -m "added 2.fb"
+  603  git push origin FB2
+  604  git checkout master
+  605  ls
+  606  git branch
+  607  git branch FB3
+  608  git checkout FB3
+  609  touch 3.fb
+  610  git add 3.fb 
+  611  git commit -m "added 3.fb"
+  612  git push origin FB3
+  613  git clone https://github.com/mahikatkuri/mahi.git
+  614  ls
+  615  git push
+  616  cd mahi
+  617  ls
+  618  git push
+  619  cd
+  620  cd siva
+  621  cd siva-reddy-rep
+  622  cd..
+  623  cd
+  624  mkdir sivareddy
+  625  cd sivareddy
+  626  mkdir siva-reddy-rep
+  627  cd siva-reddy-rep
+  628  ls-lrt
+  629  ls- files
+  630  clear
+  631  ls-lrt
+  632  ls-lsrt
+  633  ls-lst
+  634  ls-la
+  635  ls-lrt
+  636  ls
+  637  cd..
+  638  cd...
+  639  cd.
+  640  cd sivareddy
+  641  cd siva-reddy-repo
+  642  siva-reddy-rep
+  643  cd siva-reddy-rep
+  644  git status
+  645  clear
+  646  git branch FB_R1.0
+  647  git checkout FB_R1.0
+  648  git branch
+  649  touch 1.java
+  650  touch 2.java
+  651  touch 3.java
+  652  git ls-lrt
+  653  git --help
+  654  git status
+  655  clear
+  656  git log
+  657  clear
+  658  git status -s
+  659  clear
+  660  git add
+  661  git add .
+  662  git branch
+  663  git checkout FB_R1.0
+  664  git commit
+  665  git commit "3 files add"
+  666  mkdir anji
+  667  mkdiranji
+  668  clear
+  669  mkdir git anji
+  670  clear
+  671  mkdir gitanji
+  672  cd anji
+  673  git init
+  674  git config --global user.pandu
+  675  git config --global user.anji28138@gmail.com
+  676  touch 1.java
+  677  git add 1.java
+  678  git commit -m "add1.java"
+  679  git checkout master
+  680  exit
+  681  ls -lrt
+  682  cd gitsample
+  683  ls -lrt
+  684  cd ..
+  685  cd gitsample1
+  686  ls
+  687  ls -ll
+  688  cd subbu/
+  689  ls
+  690  ls -ll
+  691  cd ..
+  692  ls -l
+  693  cd subbu/
+  694  ls -ll
+  695  mv ramesh sample2.txt sample.txt subbu /gitsa1
+  696  vi ramesh 
+  697  git add *
+  698  git status
+  699  git commit -m "add ramesh file"
+  700  git push origin master
+  701  cd ..
+  702  cd gitsample
+  703  ls
+  704  vi ramesh 
+  705  git add *
+  706  git commit -m " adding rameshsample"
+  707  git push origin master
+  708  git update
+  709  git update-ref
+  710  ls -lrt
+  711  clear
+  712  mkdir gitwork1
+  713  cd gitwork1
+  714  git init
+  715  git config --global user.name "kr"
+  716  git config --global user.email krishna@gmail.com
+  717  touch 1.java
+  718  git branch
+  719  git checkout master
+  720  git add 1.java
+  721  git commit -m "added 1.java"
+  722  git checkout master
+  723  git branch fb1
+  724  git branch
+  725  git checkout fb1
+  726  touch 2.java
+  727  git add 2.java
+  728  git commit -m "2.java added"
+  729  ls -lrt
+  730  git checkout -b fb2
+  731  touch 3.java
+  732  git add 3.java
+  733  git commit -m "added 3.java"
+  734  ls -lrt
+  735  git remote add origin https://github.com/krishnareddy117/krishh.git
+  736  git checkout master
+  737  git push origin master
+  738  git checkout fb2
+  739  git push origin fb2
+  740  git branch
+  741  vi 3.java
+  742  git add 3.java
+  743  git commit -m "3.java add line"
+  744  git push origin fb2
+  745  cd ..
+  746  pwd
+  747  mkdir gitwork2
+  748  cd gitwork2
+  749  git init
+  750  git config --global user.name "gkr"
+  751  git config --global user.email hkrishnareddy@gmail.com
+  752  git clone https://github.com/krishnareddy117/krishh.git
+  753  ls -lrt
+  754  cd krishnn
+  755  cd krishh
+  756  ls -lrt
+  757  vi 1.java
+  758  git add 1.java
+  759  git commit -m "modified lines"
+  760  git branch
+  761  ls -lrt
+  762  git push origin master
+  763  cd ..
+  764  cd gitwork1
+  765  git checkout master
+  766  ls -lrt
+  767  vi 1.java
+  768  git add 1.java
+  769  git commit -m "1.java modified"
+  770  git push origin master
+  771  git brach
+  772  git branch
+  773  touch hari.txt
+  774  vi hari.txt
+  775  git add hari.txt
+  776  git commit -m "modified"
+  777  git log
+  778  git branch
+  779  ls -lrt
+  780  vi hari.txt
+  781  git add hari.txt
+  782  git commit -m "new modified"
+  783  git log
+  784  clear
+  785  pwd
+  786  who
+  787  clear
+  788  ls -lrt
+  789  clear
+  790  cd siva
+  791  cd gitpractice/
+  792  cd siva-repo/
+  793  git branch
+  794  git pull FB_R3.0
+  795  git branch -a
+  796  git checkout FB_R3.0
+  797  git checkout remote FB_R3.0
+  798  git checkout remote origin FB_R3.0
+  799  clear
+  800  git git-checkout remote-FB_R3.0
+  801  CLEAR
+  802  clear
+  803  git fetch origin 
+  804  clear
+  805  ls -lrt
+  806  git branch
+  807  git checkoutFB_R3.0 origin/FB_R3.0
+  808  git checkout -b FB_R3.0 origin/FB_R3.0
+  809  git branch
+  810  git ls-files
+  811  cat student.txt
+  812  git branch -v -a
+  813  who
+  814  clear
+  815  git branch
+  816  git branch 
+  817  git branch -a
+  818  git branch -v -a
+  819  git fetch origin
+  820  git branch -a
+  821  clear
+  822  git checkout -b FB_R4.0 origin/FB_R4.0
+  823  git branch
+  824  vi student.txt
+  825  git add . 
+  826  git commit "final changes"
+  827  git commit  -m "final changes"
+  828  git log
+  829  clear
+  830  git push origin FB_R4.0
+  831  clear
+  832  pwd
+  833  cd gitsample
+  834  ls
+  835  ls -ll
+  836  ls
+  837  ls -lrtl
+  838  date
+  839  yum install unzip
+  840  unzip subbu-master.zip 
+  841  ls -ll
+  842  cd subbu-master
+  843  ls
+  844  ls -ll
+  845  cd ..
+  846  ls
+  847  zip subbu-master
+  848  yum install zip
+  849  zip subbu-master
+  850  ls
+  851  cd subbu-master
+  852  zip subbu-master
+  853  clea
+  854  cd ..
+  855  rm -rf subbu-master subbu-master.zip 
+  856  ls
+  857  l -ll
+  858  ls -ll
+  859  ls -lrtl
+  860  du -h
+  861  free -m
+  862  df -h
+  863  yum install tree
+  864  tree
+  865  cd ..
+  866  tree
+  867  clear
+  868  ls
+  869  mkdir laxmi
+  870  touch ll
+  871  touch file mari 
+  872  tree
+  873  rm -rf l ll
+  874  ls
+  875  cd la
+  876  cd laxmi/
+  877  touch la sa ma na na
+  878  tree
+  879  rm *
+  880  ls
+  881  cd ..
+  882  rm -rf laxmi/
+  883  ls
+  884  clear
+  885  cd gitsample
+  886  ls
+  887  mkdir laxmi
+  888  cd laxmi/
+  889  git pull https://github.com/subbu2453/subbu.git/ramesh
+  890  git pull https://github.com/subbu2453/subbu.git
+  891  date
+  892  al 2017
+  893  cal 2017
+  894  cal 06 2017
+  895  date
+  896  clear
+  897  ls -ll
+  898  clear
+  899  find . gitsample
+  900  which gitsample
+  901  who
+  902  clar
+  903  clear
+  904  uname -r
+  905  uname -m
+  906  mkdir gitworkspace1
+  907  cd workspace1
+  908  clear
+  909  mkdir gitanji
+  910  mkdir gitanji1
+  911  cd gitanji1
+  912  git init
+  913  git config --globaluseranji1
+  914  git config --global user.name "anji"
+  915  git config --global user.email anji@gmail.com
+  916  touch sample.txt
+  917  git add sample.txt
+  918  git commit -m " sample.txt add"
+  919  ls -lrt
+  920  git checkout master
+  921  git branch fb1
+  922  git branch
+  923  git checkout fb1
+  924  git branch
+  925  touch 1.java
+  926  git add 1.java
+  927  git commit -m "1.java added"
+  928  ls -lrt
+  929  vi  1.java
+  930  git add 1.java
+  931  git commit -m "1.java modified"
+  932  git branch
+  933  git checkout -b fb2
+  934  touch 2.java
+  935  git add 2.java
+  936  git commit -m"add2.java"
+  937  ls-lrt
+  938  ls -lrt
+  939  vi 2.java
+  940  git add2.java
+  941  git add 2.java
+  942  git commit -m"modified 2.java"
+  943  git branch
+  944  vi 2.java
+  945  ls -lrt
+  946  git checkout master
+  947  git remote add origion https://github.com/anjire/anji2.git
+  948  git push origion master
+  949  git checkout fb1
+  950  git push origion fb1
+  951  git checkout fb2
+  952  git push origion fb2
+  953  clear
+  954  cd ..
+  955  [pwd
+  956  pwd
+  957  mkdir gitanji2
+  958  cd gitanji2
+  959  git init
+  960  git config --global user.nameworkspace
+  961  git config --global user.emailanji28138@gmail.com
+  962  git clone https://github.com/anjire/anji2.git
+  963  ls -lrt
+  964  cd anji2
+  965  ls -lrt
+  966  vi sample.txt
+  967  git add sampl.txt
+  968  git add sample.txt
+  969  git commit -m"'sample.txt"
+  970  git push origion master
+  971  vi sample.txt
+  972  git add sample.txt
+  973  git commit -m "sample.txt modified"
+  974  git branch
+  975  git push origin master
+  976  cd ..
+  977  cd gitanji1
+  978  pwd
+  979  cd /home/ec2-user
+  980  cd gitanji1
+  981  ls -lrt
+  982  vi sample.txt
+  983  gid add sample.txt
+  984  git add sample.txt
+  985  git commit -m "sample.txt modified again"
+  986  git push origin master
+  987  git branch
+  988  git checkout master
+  989  vi sample.txt
+  990  git add sample.txt
+  991  git commit -m "sample.txt modified again"
+  992  git push origin master
+  993  git remote add origin https://github.com/anjire/anji2.git
+  994  git push origin master
+  995  clear
+  996  who
+  997  exit
+  998  cd sivareddy
+  999  ls
+ 1000  clear
+ 1001  mkdir sivareddy
+ 1002  cd sivareddy
+ 1003  git init
+ 1004  ls -lart
+ 1005  git config --global user.name "sivareddy8512"
+ 1006  git config --global user.email "siva.reddy8512@gmail.com"
+ 1007  touch text_dum
+ 1008  git add
+ 1009  git add text_dum
+ 1010  git commit -m "dummy file is added"
+ 1011  git branch
+ 1012  git branch FB_R1.0
+ 1013  git checkout FB_R1.0
+ 1014  git branch
+ 1015  touch 1.java
+ 1016  touch 2.java
+ 1017  touch 3.java
+ 1018  git add 1.java 2.java 3.java
+ 1019  git commit
+ 1020  git commit -m "3 new files added in FB_R1.0"
+ 1021  git log
+ 1022  git remote add origin https://github.com/sivareddy8512/siva-reddy-repo.git
+ 1023  git push origin master
+ 1024  git push origin FB_R1.0
+ 1025  history > gitcreate
